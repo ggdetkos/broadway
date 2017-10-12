@@ -1,0 +1,9 @@
+/* Standard CSS for Broadway Design */
+
+body {
+  color: #000000;
+  background-color: #FFFFFF;
+  font-family: Helvetica,sans-serif;
+  font-size: 14px;
+  text-align: center;
+}
