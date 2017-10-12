@@ -14,6 +14,7 @@ a {
 }
 
 h1 {
+  color: #FFFFFF;
   font-size: 70px;
   font-weight: bold;
 }
@@ -28,3 +29,11 @@ h3 {
   font-weight: bold;
 }
 
+h3#midPageBanner {
+  color: #FFFFFF;
+}
+
+#header,
+#midPageBanner {
+  background-image: url('../images/the-flatiron-building.png');
+}
