@@ -42,3 +42,10 @@ h3#midPageBanner {
 #midPageBanner {
   background-image: url('../images/the-flatiron-building.png');
 }
+
+#footer {
+  color: #FFFFFF;
+  background-color: dimgray;
+  font-size: 11px;
+  text-align: left;
+}
